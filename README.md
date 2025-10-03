@@ -40,8 +40,6 @@ I used these in my project:
 
 **Libraries:**
 
-- chakra-ui https://chakra-ui.com/
-
 **Frameworks:**
 
 - react https://react.dev/
