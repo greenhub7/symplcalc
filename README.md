@@ -12,7 +12,7 @@ link to live repo --> https://www.simplcalc.netlify.app
 Use the package manager [npm](https://www.npmjs.com/) to install simplcalc.
 
 ```bash
-git clone https://github.com/Rabixx/simplcalc
+git clone https://github.com/greenhub7/simplcalc
 
 cd simplcalc
 
